@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Software/Project Softwares/selenium-server-4.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Project Softwares/Apache/batik-anim-1.14.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Project Softwares/Apache/batik-awt-util-1.14.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Project Softwares/Apache/batik-bridge-1.14.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Project Softwares/Apache/batik-codec-1.14.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Project Softwares/Apache/batik-constants-1.14.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Project Softwares/Apache/batik-css-1.14.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Project Softwares/Apache/batik-dom-1.14.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Project Softwares/Apache/batik-ext-1.14.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Project Softwares/Apache/batik-gvt-1.14.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Project Softwares/Apache/batik-i18n-1.14.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Project Softwares/Apache/batik-parser-1.14.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Project Softwares/Apache/batik-script-1.14.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Project Softwares/Apache/batik-shared-resources-1.14.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Project Softwares/Apache/batik-svg-dom-1.14.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Project Softwares/Apache/batik-svggen-1.14.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Project Softwares/Apache/batik-svgrasterizer-1.14.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Project Softwares/Apache/batik-transcoder-1.14.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Project Softwares/Apache/batik-util-1.14.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Project Softwares/Apache/batik-xml-1.14.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Project Softwares/Apache/bcpkix-jdk15on-1.69.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Project Softwares/Apache/bcprov-jdk15on-1.69.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Project Softwares/Apache/bcutil-jdk15on-1.69.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Project Softwares/Apache/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Project Softwares/Apache/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Project Softwares/Apache/commons-compress-1.21.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Project Softwares/Apache/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Project Softwares/Apache/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Project Softwares/Apache/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Project Softwares/Apache/curvesapi-1.06.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Project Softwares/Apache/fontbox-2.0.24.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Project Softwares/Apache/graphics2d-0.33.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Project Softwares/Apache/log4j-api-2.14.1.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Project Softwares/Apache/pdfbox-2.0.24.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Project Softwares/Apache/poi-5.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Project Softwares/Apache/poi-examples-5.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Project Softwares/Apache/poi-excelant-5.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Project Softwares/Apache/poi-javadoc-5.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Project Softwares/Apache/poi-ooxml-5.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Project Softwares/Apache/poi-ooxml-full-5.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Project Softwares/Apache/poi-ooxml-lite-5.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Project Softwares/Apache/poi-scratchpad-5.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Project Softwares/Apache/slf4j-api-1.7.32.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Project Softwares/Apache/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Project Softwares/Apache/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Project Softwares/Apache/xml-apis-ext-1.3.04.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Project Softwares/Apache/xmlbeans-5.0.2.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Project Softwares/Apache/xmlgraphics-commons-2.6.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Project Softwares/Apache/xmlsec-2.2.3.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
